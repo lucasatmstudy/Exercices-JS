@@ -24,7 +24,7 @@ function calculerMoyenneMention(tableau) {
         mention = "Assez bien"
     else 
         mention = "Refus"
-    return "La moyenne est :" + moyenne.toFixed(2) + mention
+    return "La moyenne est : " + moyenne.toFixed(2) + " "+ mention
 }
 
 console.log(calculerMoyenneMention(noteTibo))
