@@ -21,9 +21,9 @@ laDiv.style.color = '#ffffff';
 laDiv.style.padding = '20px';
 laDiv.style.width = '50%';
 laDiv.style.display = 'flex';
-laDiv.style.flexDirection ='column'
-laDiv.style.justifyContent ='center'
-laDiv.style.alignItems ='center'
+laDiv.style.flexDirection ='column';
+laDiv.style.justifyContent ='center';
+laDiv.style.alignItems ='center';
 
 
 const jImg = document.createElement('img');
